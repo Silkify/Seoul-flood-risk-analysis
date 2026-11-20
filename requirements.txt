@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy
+scipy
+geopandas>=0.14
+lxml
+selenium>=4.6
+folium
+jupyter
